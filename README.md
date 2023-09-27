@@ -36,3 +36,4 @@
 <img width="310" alt="4" src="https://github.com/eoh9/Gaslighting_chat/assets/62730155/0738566d-dc56-4c4e-8351-41882199d7bc">
 <img width="308" alt="5" src="https://github.com/eoh9/Gaslighting_chat/assets/62730155/2efaf659-54a4-4d47-844e-659bbb320922">
 
+- 팀원 : 김다빈, 김대현, 김미영, 오에린, 이승용, 한승윤
