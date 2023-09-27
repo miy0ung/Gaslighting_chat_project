@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">채팅앱</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="enter_message_hint">메시지를 입력하세요.</string>
+    <string name="send_text">전송</string>
+
+</resources>
