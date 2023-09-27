@@ -1,4 +1,7 @@
 # 실시간 대화 속 가스라이팅 문장 위험 감지 앱서비스
+
+- 팀원 : 김다빈, 김대현, 김미영, 오에린, 이승용, 한승윤
+
 ![image](https://github.com/eoh9/Gaslighting_chat/assets/62730155/84d4e78c-c42a-46d3-b122-dfa93299ad4e)
 ![image](https://github.com/eoh9/Gaslighting_chat/assets/62730155/5af50c0e-a9e5-426a-a2d8-ca52e9fc6e89)
 ![image](https://github.com/eoh9/Gaslighting_chat/assets/62730155/6141a18e-f3c3-4303-9011-9a20a48e51e7)
@@ -35,8 +38,3 @@
 <img width="311" alt="3" src="https://github.com/eoh9/Gaslighting_chat/assets/62730155/d05a8cf3-9846-42f5-ad58-229e463c442b">
 <img width="310" alt="4" src="https://github.com/eoh9/Gaslighting_chat/assets/62730155/0738566d-dc56-4c4e-8351-41882199d7bc">
 <img width="308" alt="5" src="https://github.com/eoh9/Gaslighting_chat/assets/62730155/2efaf659-54a4-4d47-844e-659bbb320922">
-
-
-
-
-- 팀원 : 김다빈, 김대현, 김미영, 오에린, 이승용, 한승윤
